@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_LO_STOP_TRADEROUTE_ACTION" Language="zh_Hans_CN">
+            <Text>回到始发城市</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HOTKEYS_LO_NAME" Language="zh_Hans_CN">
+            <Text>精简操作</Text>
+        </Row>
+        <Row Tag="LOC_OPTION_AUTO_FORTIFY_NAME" Language="zh_Hans_CN">
+            <Text>自动驻扎</Text>
+        </Row>
+        <Row Tag="LOC_OPTION_AUTO_FORTIFY_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>让所有军事单位全部原地驻扎</Text>
+        </Row>
+
+        <Row Tag="LOC_LO_STOP_TRADEROUTE_ACTION" Language="en_US">
+            <Text>Back to Origin City</Text>
+        </Row>
+        <Row Tag="LOC_OPTIONS_HOTKEYS_LO_NAME" Language="en_US">
+            <Text>Less Operations</Text>
+        </Row>
+        <Row Tag="LOC_OPTION_AUTO_FORTIFY_NAME" Language="en_US">
+            <Text>Auto Fortify</Text>
+        </Row>
+        <Row Tag="LOC_OPTION_AUTO_FORTIFY_DESCRIPTION" Language="en_US">
+            <Text>Every military unit fortifies where they are.</Text>
+        </Row>
+        
+    </LocalizedText>
+
+</GameData>
