@@ -21,7 +21,7 @@ local m_UnrestOperationNames = {
     "UNITOPERATION_HARVEST_RESOURCE",
 }
 
--- 用 m_UnrestOperations 代替 m_UnrestOperationNames
+-- 用相应的序号代替 m_UnrestOperationNames
 for _, op in ipairs(m_UnrestOperationNames) do
     table.insert(m_UnrestOperations, GameInfo.UnitOperations[op].Index)
 end
